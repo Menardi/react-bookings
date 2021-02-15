@@ -1,0 +1,10 @@
+.booking {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #aaa;
+  border-radius: 8px;
+}
+
+.date {
+  color: #666;
+}
