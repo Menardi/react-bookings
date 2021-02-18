@@ -10,7 +10,7 @@ function App() {
       <h1>Your Bookings</h1>
       <label>
         <input type="checkbox" />
-        Hide completed bookings
+        Hide past bookings
       </label>
       <BookingList bookings={BOOKINGS} />
     </div>
